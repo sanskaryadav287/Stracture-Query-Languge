@@ -21,7 +21,7 @@ insert into book1(sale_id,product,category,quantity,price,region,salesperson,sal
 (5,"Laptop","Electronics",7,55000,"South","Mary","2024-03-01"),
 (6,"Mobile","Electronics",15,18000,"East","John","2024-03-05"),
 (7,"Sofa","Furniture",3,25000,"West","Steve","2024-03-20"),
-(8,"Laptop","Electronics",2,520000,"North","Mary","2024-04-02"),
+(8,"Laptop","Electronics",2,52000,"North","Mary","2024-04-02"),
 (9,"Chair","Furniture",30,1200,"South","John","2024-04-12"),
 (10,"Mobile","Electronics",12,22000,"West","Steve","2024-04-15");
 
